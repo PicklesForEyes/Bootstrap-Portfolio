@@ -25,3 +25,7 @@ h2, h3 {
   font-size: 14pt;
   color: #444;
 }
+
+#maincontent {
+  margin-bottom: 20px;
+}
