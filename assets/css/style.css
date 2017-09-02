@@ -20,3 +20,8 @@ h2, h3 {
   background-color: #4aaaaf;
   padding-bottom: 15px;
 }
+
+#maincontent p {
+  font-size: 14pt;
+  color: #444;
+}
